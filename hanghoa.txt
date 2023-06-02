@@ -1,0 +1,56 @@
+Kho Hàng: Tên hàng: Thịt Loại hàng: Thực phẩm Mã hàng: 01 Số lượng tồn kho: 30 Đơn giá: 15.0 Ngày sản xuất: 01/07/2020 Ngày hết hạn: 01/07/2022 Thuế hàng thực phẩm: 0.75 đánh giá: bán không được
+Kho Hàng: Tên hàng: Cá Loại hàng: Thực phẩm Mã hàng: 02 Số lượng tồn kho: 40 Đơn giá: 20.0 Ngày sản xuất: 02/02/2021 Ngày hết hạn: 02/02/2022 Thuế hàng thực phẩm: 1.0 đánh giá: bán không được
+Kho Hàng: Tên hàng: Trứng Loại hàng: Thực phẩm Mã hàng: 03 Số lượng tồn kho: 50 Đơn giá: 25.0 Ngày sản xuất: 30/04/2021 Ngày hết hạn: 30/04/2022 Thuế hàng thực phẩm: 1.25 đánh giá: bán không được
+Kho Hàng: Tên hàng: Rau củ Loại hàng: Thực phẩm Mã hàng: 04 Số lượng tồn kho: 100 Đơn giá: 2.0 Ngày sản xuất: 25/03/2022 Ngày hết hạn: 30/03/2022 Thuế hàng thực phẩm: 0.1 đánh giá: bán không được
+Kho Hàng: Tên hàng: Điện thoại Loại hàng: Điện máy Mã hàng: 10 Số lượng tồn kho: 100 Đơn giá: 150.0 Thời gian bào hành: 24 tháng Công suất KW: 1KW Thuế: 15.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính xách tay Loại hàng: Điện máy Mã hàng: 20 Số lượng tồn kho: 150 Đơn giá: 200.0 Thời gian bào hành: 36 Tháng Công suất KW: 100KW Thuế: 20.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính bàn Loại hàng: Điện máy Mã hàng: 30 Số lượng tồn kho: 300 Đơn giá: 100.0 Thời gian bào hành: 24 tháng Công suất KW: 100KW Thuế: 10.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Tivi Loại hàng: Điện máy Mã hàng: 40 Số lượng tồn kho: 350 Đơn giá: 75.0 Thời gian bào hành: 36 tháng Công suất KW: 100KW Thuế: 7.5 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Ấm nước Loại hàng: Sành sứ Mã hàng: 001 Số lượng tồn kho: 1000 Đơn giá: 10.0 Nhà sản xuất: Gốm sứ Việt Ngày nhập kho: 01/03/2022 Thuế hàng sành sứ: 1.0 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Ly Loại hàng: Sành sứ Mã hàng: 002 Số lượng tồn kho: 1100 Đơn giá: 5.0 Nhà sản xuất: Gốm Sài Gòn Ngày nhập kho: 22/03/2022 Thuế hàng sành sứ: 0.5 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Chén dĩa Loại hàng: Sành sứ Mã hàng: 003 Số lượng tồn kho: 1200 Đơn giá: 9.0 Nhà sản xuất: Gốm bát tràng Ngày nhập kho: 30/03/2022 Thuế hàng sành sứ: 0.9 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Thịt Loại hàng: Thực phẩm Mã hàng: 01 Số lượng tồn kho: 30 Đơn giá: 15.0 Ngày sản xuất: 01/07/2020 Ngày hết hạn: 01/07/2022 Thuế hàng thực phẩm: 0.75 đánh giá: bán không được
+Kho Hàng: Tên hàng: Cá Loại hàng: Thực phẩm Mã hàng: 02 Số lượng tồn kho: 40 Đơn giá: 20.0 Ngày sản xuất: 02/02/2021 Ngày hết hạn: 02/02/2022 Thuế hàng thực phẩm: 1.0 đánh giá: bán không được
+Kho Hàng: Tên hàng: Trứng Loại hàng: Thực phẩm Mã hàng: 03 Số lượng tồn kho: 50 Đơn giá: 25.0 Ngày sản xuất: 30/04/2021 Ngày hết hạn: 30/04/2022 Thuế hàng thực phẩm: 1.25 đánh giá: bán không được
+Kho Hàng: Tên hàng: Rau củ Loại hàng: Thực phẩm Mã hàng: 04 Số lượng tồn kho: 100 Đơn giá: 2.0 Ngày sản xuất: 25/03/2022 Ngày hết hạn: 30/03/2022 Thuế hàng thực phẩm: 0.1 đánh giá: bán không được
+Kho Hàng: Tên hàng: Điện thoại Loại hàng: Điện máy Mã hàng: 10 Số lượng tồn kho: 100 Đơn giá: 150.0 Thời gian bào hành: 24 tháng Công suất KW: 1KW Thuế: 15.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính xách tay Loại hàng: Điện máy Mã hàng: 20 Số lượng tồn kho: 150 Đơn giá: 200.0 Thời gian bào hành: 36 Tháng Công suất KW: 100KW Thuế: 20.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính bàn Loại hàng: Điện máy Mã hàng: 30 Số lượng tồn kho: 300 Đơn giá: 100.0 Thời gian bào hành: 24 tháng Công suất KW: 100KW Thuế: 10.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Tivi Loại hàng: Điện máy Mã hàng: 40 Số lượng tồn kho: 350 Đơn giá: 75.0 Thời gian bào hành: 36 tháng Công suất KW: 100KW Thuế: 7.5 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Ấm nước Loại hàng: Sành sứ Mã hàng: 001 Số lượng tồn kho: 1000 Đơn giá: 10.0 Nhà sản xuất: Gốm sứ Việt Ngày nhập kho: 01/03/2022 Thuế hàng sành sứ: 1.0 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Ly Loại hàng: Sành sứ Mã hàng: 002 Số lượng tồn kho: 1100 Đơn giá: 5.0 Nhà sản xuất: Gốm Sài Gòn Ngày nhập kho: 22/03/2022 Thuế hàng sành sứ: 0.5 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Chén dĩa Loại hàng: Sành sứ Mã hàng: 003 Số lượng tồn kho: 1200 Đơn giá: 9.0 Nhà sản xuất: Gốm bát tràng Ngày nhập kho: 30/03/2022 Thuế hàng sành sứ: 0.9 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: 1 Loại hàng: 1 Mã hàng: 01 Số lượng tồn kho: 20 Đơn giá: 20.0 Ngày sản xuất: 01/01/2020 Ngày hết hạn: 01/01/2023 Thuế hàng thực phẩm: 1.0 đánh giá: bán không được
+Kho Hàng: Tên hàng: Thịt Loại hàng: Thực phẩm Mã hàng: 01 Số lượng tồn kho: 30 Đơn giá: 15.0 Ngày sản xuất: 01/07/2020 Ngày hết hạn: 01/07/2022 Thuế hàng thực phẩm: 0.75 đánh giá: bán không được
+Kho Hàng: Tên hàng: Cá Loại hàng: Thực phẩm Mã hàng: 02 Số lượng tồn kho: 40 Đơn giá: 20.0 Ngày sản xuất: 02/02/2021 Ngày hết hạn: 02/02/2022 Thuế hàng thực phẩm: 1.0 đánh giá: bán không được
+Kho Hàng: Tên hàng: Trứng Loại hàng: Thực phẩm Mã hàng: 03 Số lượng tồn kho: 50 Đơn giá: 25.0 Ngày sản xuất: 30/04/2021 Ngày hết hạn: 30/04/2022 Thuế hàng thực phẩm: 1.25 đánh giá: bán không được
+Kho Hàng: Tên hàng: Rau củ Loại hàng: Thực phẩm Mã hàng: 04 Số lượng tồn kho: 100 Đơn giá: 2.0 Ngày sản xuất: 25/03/2022 Ngày hết hạn: 30/03/2022 Thuế hàng thực phẩm: 0.1 đánh giá: bán không được
+Kho Hàng: Tên hàng: Điện thoại Loại hàng: Điện máy Mã hàng: 10 Số lượng tồn kho: 100 Đơn giá: 150.0 Thời gian bào hành: 24 tháng Công suất KW: 1KW Thuế: 15.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính xách tay Loại hàng: Điện máy Mã hàng: 20 Số lượng tồn kho: 150 Đơn giá: 200.0 Thời gian bào hành: 36 Tháng Công suất KW: 100KW Thuế: 20.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính bàn Loại hàng: Điện máy Mã hàng: 30 Số lượng tồn kho: 300 Đơn giá: 100.0 Thời gian bào hành: 24 tháng Công suất KW: 100KW Thuế: 10.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Tivi Loại hàng: Điện máy Mã hàng: 40 Số lượng tồn kho: 350 Đơn giá: 75.0 Thời gian bào hành: 36 tháng Công suất KW: 100KW Thuế: 7.5 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Ấm nước Loại hàng: Sành sứ Mã hàng: 001 Số lượng tồn kho: 1000 Đơn giá: 10.0 Nhà sản xuất: Gốm sứ Việt Ngày nhập kho: 01/03/2022 Thuế hàng sành sứ: 1.0 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Ly Loại hàng: Sành sứ Mã hàng: 002 Số lượng tồn kho: 1100 Đơn giá: 5.0 Nhà sản xuất: Gốm Sài Gòn Ngày nhập kho: 22/03/2022 Thuế hàng sành sứ: 0.5 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Chén dĩa Loại hàng: Sành sứ Mã hàng: 003 Số lượng tồn kho: 1200 Đơn giá: 9.0 Nhà sản xuất: Gốm bát tràng Ngày nhập kho: 30/03/2022 Thuế hàng sành sứ: 0.9 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Heo Loại hàng: 1 Mã hàng: 11 Số lượng tồn kho: 20 Đơn giá: 200.0 Ngày sản xuất: 12/01/2020 Ngày hết hạn: 12/01/2023 Thuế hàng thực phẩm: 10.0 đánh giá: bán không được
+Kho Hàng: Tên hàng: Cá Loại hàng: Thực phẩm Mã hàng: 02 Số lượng tồn kho: 40 Đơn giá: 20.0 Ngày sản xuất: 02/02/2021 Ngày hết hạn: 02/02/2022 Thuế hàng thực phẩm: 1.0 đánh giá: bán không được
+Kho Hàng: Tên hàng: Trứng Loại hàng: Thực phẩm Mã hàng: 03 Số lượng tồn kho: 50 Đơn giá: 25.0 Ngày sản xuất: 30/04/2021 Ngày hết hạn: 30/04/2022 Thuế hàng thực phẩm: 1.25 đánh giá: bán không được
+Kho Hàng: Tên hàng: Rau củ Loại hàng: Thực phẩm Mã hàng: 04 Số lượng tồn kho: 100 Đơn giá: 2.0 Ngày sản xuất: 25/03/2022 Ngày hết hạn: 30/03/2022 Thuế hàng thực phẩm: 0.1 đánh giá: bán không được
+Kho Hàng: Tên hàng: Điện thoại Loại hàng: Điện máy Mã hàng: 10 Số lượng tồn kho: 100 Đơn giá: 150.0 Thời gian bào hành: 24 tháng Công suất KW: 1KW Thuế: 15.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính xách tay Loại hàng: Điện máy Mã hàng: 20 Số lượng tồn kho: 150 Đơn giá: 200.0 Thời gian bào hành: 36 Tháng Công suất KW: 100KW Thuế: 20.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính bàn Loại hàng: Điện máy Mã hàng: 30 Số lượng tồn kho: 300 Đơn giá: 100.0 Thời gian bào hành: 24 tháng Công suất KW: 100KW Thuế: 10.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Tivi Loại hàng: Điện máy Mã hàng: 40 Số lượng tồn kho: 350 Đơn giá: 75.0 Thời gian bào hành: 36 tháng Công suất KW: 100KW Thuế: 7.5 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Ấm nước Loại hàng: Sành sứ Mã hàng: 001 Số lượng tồn kho: 1000 Đơn giá: 10.0 Nhà sản xuất: Gốm sứ Việt Ngày nhập kho: 01/03/2022 Thuế hàng sành sứ: 1.0 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Ly Loại hàng: Sành sứ Mã hàng: 002 Số lượng tồn kho: 1100 Đơn giá: 5.0 Nhà sản xuất: Gốm Sài Gòn Ngày nhập kho: 22/03/2022 Thuế hàng sành sứ: 0.5 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Chén dĩa Loại hàng: Sành sứ Mã hàng: 003 Số lượng tồn kho: 1200 Đơn giá: 9.0 Nhà sản xuất: Gốm bát tràng Ngày nhập kho: 30/03/2022 Thuế hàng sành sứ: 0.9 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Thịt Loại hàng: Thực phẩm Mã hàng: 01 Số lượng tồn kho: 30 Đơn giá: 15.0 Ngày sản xuất: 01/07/2020 Ngày hết hạn: 01/07/2022 Thuế hàng thực phẩm: 0.75 đánh giá: bán không được
+Kho Hàng: Tên hàng: Cá Loại hàng: Thực phẩm Mã hàng: 02 Số lượng tồn kho: 40 Đơn giá: 20.0 Ngày sản xuất: 02/02/2021 Ngày hết hạn: 02/02/2022 Thuế hàng thực phẩm: 1.0 đánh giá: bán không được
+Kho Hàng: Tên hàng: Trứng Loại hàng: Thực phẩm Mã hàng: 03 Số lượng tồn kho: 50 Đơn giá: 25.0 Ngày sản xuất: 30/04/2021 Ngày hết hạn: 30/04/2022 Thuế hàng thực phẩm: 1.25 đánh giá: bán không được
+Kho Hàng: Tên hàng: Rau củ Loại hàng: Thực phẩm Mã hàng: 04 Số lượng tồn kho: 100 Đơn giá: 2.0 Ngày sản xuất: 25/03/2022 Ngày hết hạn: 30/03/2022 Thuế hàng thực phẩm: 0.1 đánh giá: bán không được
+Kho Hàng: Tên hàng: Điện thoại Loại hàng: Điện máy Mã hàng: 10 Số lượng tồn kho: 100 Đơn giá: 150.0 Thời gian bào hành: 24 tháng Công suất KW: 1KW Thuế: 15.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính xách tay Loại hàng: Điện máy Mã hàng: 20 Số lượng tồn kho: 150 Đơn giá: 200.0 Thời gian bào hành: 36 Tháng Công suất KW: 100KW Thuế: 20.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Máy tính bàn Loại hàng: Điện máy Mã hàng: 30 Số lượng tồn kho: 300 Đơn giá: 100.0 Thời gian bào hành: 24 tháng Công suất KW: 100KW Thuế: 10.0 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Tivi Loại hàng: Điện máy Mã hàng: 40 Số lượng tồn kho: 350 Đơn giá: 75.0 Thời gian bào hành: 36 tháng Công suất KW: 100KW Thuế: 7.5 Đánh giá hàng điện máy: bán không được
+Kho Hàng: Tên hàng: Ấm nước Loại hàng: Sành sứ Mã hàng: 001 Số lượng tồn kho: 1000 Đơn giá: 10.0 Nhà sản xuất: Gốm sứ Việt Ngày nhập kho: 01/03/2022 Thuế hàng sành sứ: 1.0 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Ly Loại hàng: Sành sứ Mã hàng: 002 Số lượng tồn kho: 1100 Đơn giá: 5.0 Nhà sản xuất: Gốm Sài Gòn Ngày nhập kho: 22/03/2022 Thuế hàng sành sứ: 0.5 Đánh giá hàng sành sứ: bán không được
+Kho Hàng: Tên hàng: Chén dĩa Loại hàng: Sành sứ Mã hàng: 003 Số lượng tồn kho: 1200 Đơn giá: 9.0 Nhà sản xuất: Gốm bát tràng Ngày nhập kho: 30/03/2022 Thuế hàng sành sứ: 0.9 Đánh giá hàng sành sứ: bán không được
